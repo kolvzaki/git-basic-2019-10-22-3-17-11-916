@@ -1,0 +1,3 @@
+ Q: What is the difference between add, commit, and push?
+A: git add is used for staging all the changed files in stage area. git commit is used for adding all the files in stage area to local repository.
+git push is used for uploading local branch version to remote and merge.
